@@ -10,7 +10,7 @@
 - MSSV: 2A202603073
 - Mã đề (A/B/C): C
 - Email: truonggiangbg00@gmail.com
-- Link repository:
+- Link repository: https://github.com/truonggiangbg00-ctrl/K5-L2-DAY05-NguyenTruongGiang-2A202603073-MOTTracking.git
 - Giờ bắt đầu: 16h30
 - Giờ kết thúc: 18h08
 
